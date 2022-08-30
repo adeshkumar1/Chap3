@@ -1,0 +1,67 @@
+1. 
+George Bush speech:
+
+ 2001
+George W. Bush
+
+There are 1582.0 words
+The average word length is 4.66
+People was said 0.00 times 0.00%
+Government was said 3.00 times 0.19%
+United was said 2.00 times 0.13%
+Our was said 50.00 times 3.16%
+
+2.
+A House Divided Speech (June 16, 1858)
+Abraham Lincoln
+
+There are 3236.0 words
+The average word length is 4.73
+People was said 19.00 times 0.59%
+Government was said 1.00 times 0.03%
+United was said 13.00 times 0.40%
+Our was said 3.00 times 0.09%
+3. 
+Inaugural Address (March 5, 1877)
+Rutherford B. Hayes
+
+There are 2288.0 words
+The average word length is 5.43
+People was said 4.00 times 0.17%
+Government was said 10.00 times 0.44%
+United was said 6.00 times 0.26%
+Our was said 10.00 times 0.44%
+4.
+inaugural speach 2008
+barack obama
+
+There are 2401.0 words
+The average word length is 4.59
+People was said 6.00 times 0.25%
+Government was said 2.00 times 0.08%
+United was said 0.00 times 0.00%
+Our was said 66.00 times 2.75%
+5.
+Crisis of Confidence Speech (July 15, 1979)
+Jimmy Carter
+
+There are 3664.0 words
+The average word length is 4.51
+People was said 14.00 times 0.38%
+Government was said 8.00 times 0.22%
+United was said 4.00 times 0.11%
+Our was said 103.00 times 2.81%
+6.
+
+1909
+
+There are 5431.0 words
+The average word length is 4.92
+People was said 5.00 times 0.09%
+Government was said 19.00 times 0.35%
+United was said 6.00 times 0.11%
+Our was said 40.00 times 0.74%
+
+On average there wasn't that much of a pattern, but the older speeches were slightly longer
+and the use of people was said slightly more in newer speeches, government
+was used slightly less in modern speeches and United and Our were used about the same amount.

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StandardPen
+comment1.params=
+comment1.target=StandardPen()
+comment2.params=p
+comment2.target=StandardPen(SketchPad)
+comment3.params=win
+comment3.target=StandardPen(SketchPadWindow)
+comment4.params=text
+comment4.target=void\ drawString(java.lang.String)
+comment5.params=x\ y
+comment5.target=void\ drawLine(double,\ double)
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CommandSetColor
+comment1.params=c
+comment1.target=CommandSetColor(java.awt.Color)
+comment2.params=g\ width\ height
+comment2.target=void\ doCommand(java.awt.Graphics2D,\ int,\ int)
+numComments=3
